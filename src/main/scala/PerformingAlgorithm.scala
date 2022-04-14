@@ -1,4 +1,4 @@
-object ExerciseWarmups extends App {
+object PerformingAlgorithm extends App {
 
   import scala.annotation.tailrec
 
