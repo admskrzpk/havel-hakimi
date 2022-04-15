@@ -36,6 +36,4 @@ object PerformingAlgorithm extends App {
       }
     }
   }
-  val result = performingAlgorithm(si)
-  println(result)
 }
